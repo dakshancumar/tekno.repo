@@ -1,0 +1,2 @@
+# tekno.repo
+Student 
